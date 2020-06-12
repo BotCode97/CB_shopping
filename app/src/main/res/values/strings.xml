@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CB Collection</string>
+    <string name="login">Sign In</string>
+    <string-array name="categories">
+        <item>Saree</item>
+        <item>Hand Loom</item>
+        <item>Jor Jet</item>
+        <item>Half Siffon</item>
+        <item>Kanji Baram</item>
+        <item>Siffon</item>
+        <item>Silk</item>
+    </string-array>
+</resources>
